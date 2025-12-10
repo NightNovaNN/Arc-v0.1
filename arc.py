@@ -25,7 +25,7 @@ class AST_Inline:
 
 
 # ========================================================
-# BRACE FIXER (SMART INLINE MODE) 😭🔥
+# BRACE FIXER (SMART INLINE MODE) 
 # ========================================================
 
 def balance_braces(code):
